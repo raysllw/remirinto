@@ -1,19 +1,17 @@
 <DOCTYPE html>
 <html>
 <head>
-  <title> Who Is Remi? </title>
+  <title>Who Is Remi?</title>
   <style>
-<body>
     {
-  font-family: Arial, sans-serif;
-  margin: 40px;
-  background-color: #f4f4f9;
-            color: #333
-}
-<h1> Remi Fasol </h1>
+    font: Times New Roman;
+    margin: 40px;
+    background-color: #0000;
+    color: #ffff;
+    }
+      <h1> Remi Fasol </h1>
 <p> Who Is Remi? </p>
     
-</head>
 </style>
-</body>
+</head>
 </html>
