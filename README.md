@@ -1,5 +1,5 @@
 <DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <title> Who Is Remi? </title>
   <style>
@@ -10,9 +10,10 @@
   background-color: #f4f4f9;
             color: #333
 }
-<h1> Site Test </h1>
-<p> who is remi? </p>
-    </style>
+<h1> Remi Fasol </h1>
+<p> Who Is Remi? </p>
+    
 </head>
+</style>
 </body>
 </html>
