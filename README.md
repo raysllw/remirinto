@@ -1,9 +1,13 @@
 <DOCTYPE html>
 <html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<body>{
+  font-family: Arial, sans-serif;
+margin: 40px;
+background-color: #f4f4f9;
+            color: #333;
+        }
+<h1> Site Test </h1>
+<p> who is remi? </p>
 
 </body>
 </html>
